@@ -3,7 +3,7 @@
 By leveraging the insights derived from the dataset and dashboard, stakeholders can significantly elevate operational efficiency, optimize quality control protocols, reduce costs, and empower informed decision-making to propel manufacturing excellence.
 Benefits: This approach facilitates comprehensive performance monitoring, enabling the swift identification of issues and fostering a culture of data-driven decision-making. As a result, organizations can enhance productivity, streamline processes, and achieve strategic objectives with precision.
 
-# DASHBOARD OVER-VIEW:
+# Dashboard Overview:
 # Purpose: 
 Delivers a holistic overview of service and operational metrics in hospitality management.
 # Key Features:
@@ -27,18 +27,18 @@ Includes:Visual representations for improved comprehension.  Analysis on guest f
 · Tableau & Power BI for creating interactive Dashboards
 
 # KPI Lists:
-# Total Revenue: 
+# 1.Total Revenue: 
 The dashboard indicates a total revenue of 2,007.5M, allowing management to see the overall financial health.
-# Occupancy Rate: 
+# 2.Occupancy Rate: 
 At 58%, this metric reflects how well rooms are being utilized across the properties.
-# Total Bookings and Cancellation Rate:
+# 3.Total Bookings and Cancellation Rate:
 With 134,590 total bookings and a 25% cancellation rate, this allows stakeholders to assess customer behaviour and focus on reducing cancellations, perhaps through better customer engagement.
-# Booking Status:
+# 4.Booking Status:
 The bookings into statuses such as “Cancelled,” “Checked Out,” and “No Show,” giving a quick snapshot of how many bookings convert into actual stays.
 Revenue by Class and Platform: This section shows how different booking platforms (like journey or laptop) and room classes (like Elite, Premium, etc.) contribute to overall revenue. 
-# City-Based Analysis:
+# 5.City-Based Analysis:
 The revenue by city (e.g., Bangalore, Mumbai, Hyderabad), providing a geographic breakdown that can guide decisions about resource allocation and market focus.
-# Weekly Trends:
+# 6.Weekly Trends:
 The weekly trend analysis for total bookings and occupancy helps management understand fluctuations over time and adjust pricing, promotions, or staffing to better manage demand.
 
 # Key Takeaways:
@@ -57,7 +57,7 @@ By reducing cancellations and improving service quality, the dataset reveals opp
 # Enhanced Quality Control:
 Focusing on service feedback and complaint rates enables a more detailed approach to quality control, leading to improved service delivery and increased guest satisfaction.
 
-The hospitality dataset and dashboard offer a wealth of information critical for optimizing service processes, enhancing quality control, and facilitating data-driven decision-making to drive efficiency and success in hospitality management.
+# The hospitality dataset and dashboard offer a wealth of information critical for optimizing service processes, enhancing quality control, and facilitating data-driven decision-making to drive efficiency and success in hospitality management.
 
 
 
