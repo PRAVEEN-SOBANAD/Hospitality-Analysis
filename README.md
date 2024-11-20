@@ -42,6 +42,7 @@ The revenue by city (e.g., Bangalore, Mumbai, Hyderabad), providing a geographic
 The weekly trend analysis for total bookings and occupancy helps management understand fluctuations over time and adjust pricing, promotions, or staffing to better manage demand.
 
 # Key Takeaways:
+
 # Service Metrics Tracking: 
 The dataset captures essential service metrics such as Guest Satisfaction Scores, Reservation Rates, Occupancy Levels, and Cancellation Rates, providing a comprehensive overview of hospitality operations.
 # Quality Control Insights: 
