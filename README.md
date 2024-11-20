@@ -10,6 +10,22 @@ Delivers a holistic overview of service and operational metrics in hospitality m
 Monitors service data to enhance guest satisfaction and operational efficiency. Provides actionable insights for evaluating performance and facilitating data-driven decision-making.
 Includes:Visual representations for improved comprehension.  Analysis on guest feedback, occupancy trends, revenue streams, and more.
 
+# Data Cleaning :
+· Handling Missing Values: Identified and addressed missing or incomplete data entries.
+
+· Removing Duplicates: Ensured that duplicate records were eliminated to maintain data integrity.
+
+· Standardizing Formats: Unified data formats and corrected inconsistencies across various fields.
+
+· Validating Data: Verified data accuracy and consistency to ensure reliable analysis.
+
+# Tools & Technologies Used :
+· Excel – Pivot Tables & Charts
+
+· My SQL for database querying
+
+· Tableau & Power BI for creating interactive Dashboards
+
 # KPI Lists:
 # Total Revenue: 
 The dashboard indicates a total revenue of 2,007.5M, allowing management to see the overall financial health.
